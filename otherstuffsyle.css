@@ -1,0 +1,22 @@
+body 
+{
+background-color: black;
+color: white;
+font-size: larger;
+font-family: monospace;
+font-style: normal;
+}
+
+h2
+{
+color: red;
+font-size: x-large;
+font-family: monospace;
+font-style: normal;
+}
+
+h3
+{
+color:white;
+font-size: x-large;
+}

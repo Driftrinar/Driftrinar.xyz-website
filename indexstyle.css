@@ -1,0 +1,39 @@
+
+  body {background-color:black ; font-size: medium;}
+  p {color: white;}
+  h1 {
+    color: blue;}
+  body {font-size: medium}
+  p {font-family: monospace;}
+  body {font-family: monospace;}
+  body {color: white;}
+  h1 {font-family: monospace;}
+  h1 {font-size: xx-large;}
+  h2 {font-size: larger;}
+  h2 {color: darkorchid;}
+  h3 {color: fuchsia;}
+  h3 {font-size: larger;}
+  
+  .ok {
+    font-size: larger;
+    color: blue;
+    text-align: center;}
+  
+  .ok {
+    position: absolute;
+    top:  1%;
+    left: 60%;}
+
+  .otherstuff {
+    position: absolute;
+    top: 3.5%;
+    left: 60%;}
+
+  .otherstuff {
+    font-size: larger;
+    color:blue;
+    text-align: center;}
+
+
+
+ 
